@@ -50,10 +50,9 @@ export const IntroSection = () => {
                 </div>
             
             <IntroContent>
-                <IntroH1>Fast &amp; furious delivery </IntroH1>
+                <IntroH1>Fast &amp; Furious Love </IntroH1>
                 <IntroP>
-                    Đăng kí hôm nay và nhận ngay những phần quà 
-                    và ưu đãi hấp dẫn lên đến 2 triệu đồng!
+                    Đăng kí tài khoản hôm nay và nhận ngay một người yêu miễn phí!
                 </IntroP>
                 <NavBtn>
                     <NavBtnLink to='signin'>Bắt đầu!</NavBtnLink>
