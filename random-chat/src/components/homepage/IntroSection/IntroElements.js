@@ -40,7 +40,8 @@ export const IntroContent = styled.div`
 
 export const IntroH1 = styled.h1`
     color: #fff;
-    font-size: 48px;
+    font-size: 64px;
+    font-weight: bold;
     text-align: center;
     
     @media screen and (max-width: 768px){
@@ -92,7 +93,7 @@ export const NavBtn = styled.nav`
 
 export const NavBtnLink = styled(LinkR)`
     border-radius: 50px;
-    background: #01bf71;
+    background: linear-gradient(90deg, #f857a6, #ff5858);
     white-space: nowrap;
     padding: 10px 22px;
     color: #010606;
